@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = sameriliya@gmail.com
+	name = Samer Iliya
